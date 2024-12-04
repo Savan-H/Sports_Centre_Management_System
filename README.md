@@ -1,7 +1,19 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/BsFdJ6lI)
 # Gymcorp Management Website
 
-## Building
+## Building option 1
+
+1) Make sure [Virtual Environment](https://virtualenv.pypa.io/en/latest/installation.html) is installed.
+2) Activate vitrual environment:
+```shell
+$ source venv/Scripts/activate
+```
+3) Run:
+```shell
+$ python run.py
+```  
+
+## Building option 2
 
 1) Make sure [Poetry](https://python-poetry.org) is installed.
 2) Open the venv shell:
